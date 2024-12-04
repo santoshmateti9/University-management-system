@@ -1,2 +1,3 @@
 # University-management-system
-final year project
+final year project 
+project to manage the univesity related work
